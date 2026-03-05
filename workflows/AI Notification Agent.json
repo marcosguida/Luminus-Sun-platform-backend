@@ -85,7 +85,7 @@
         "promptType": "define",
         "text": "Data de hoje: {{ $now.format('dd/mm/yyyy') }}\nDados meteorológicos por hora: {{ $node[\"HTTP Request\"].json.hourly }}",
         "options": {
-          "systemMessage": "=SUA_MENSAGEM"
+          "systemMessage": "=YOUR_SYSTEM_PROMPT"
         }
       },
       "type": "@n8n/n8n-nodes-langchain.agent",
