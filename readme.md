@@ -29,8 +29,6 @@
 [![Hackathon InovaUni 2025](https://img.shields.io/badge/Hackathon-InovaUni%202025-purple?style=for-the-badge)](https://github.com/arthurpestana)
 [![ODS 7](https://img.shields.io/badge/ODS-7%20Energia%20Limpa-yellow?style=for-the-badge)](https://sdgs.un.org/goals/goal7)
 
-> Plataforma que combina **dados climáticos brasileiros (INMET/ONS)**, **IA generativa (Gemini)** e **automação (n8n)** para gerar análises preditivas de energia solar e apoiar decisões de consumo energético residencial.
-
 </div>
 
 
