@@ -291,7 +291,7 @@ Chatbot climático ativado por webhook POST. Recebe mensagem do usuário, recupe
 
 ## 👥 Equipe
 
-### 💻 Sistemas de Informação
+### Sistemas de Informação
 
 | Nome | GitHub | 
 |---|---|
@@ -300,7 +300,7 @@ Chatbot climático ativado por webhook POST. Recebe mensagem do usuário, recupe
 | Juliana Chaves | — 
 | Marcos Ribeiro | [@marcosguida](https://github.com/marcosguida) |
 
-### 🌱 Engenharia Agronômica
+### Engenharia Agronômica
 
 | Nome | Papel |
 |---|---|
